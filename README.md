@@ -1,5 +1,7 @@
 # 🧠 n8n Workflow Collection
-
+https://github.com/Zie619/n8n-workflows
+tutorial 
+https://www.youtube.com/watch?v=Ey18PDiaAYI&t=725s
 This repository contains a collection of **n8n workflows** gathered from multiple sources, including:
 
 * Workflows exported from the [n8n.io](https://n8n.io) website and community forum
